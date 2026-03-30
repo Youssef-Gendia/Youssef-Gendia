@@ -53,5 +53,5 @@ I build practical solutions that turn data into insights and business value.
 ---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- LinkedIn:[ https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/youssef-gendia-562994349)  
 - Email: YOUR_EMAIL  
