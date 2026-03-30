@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Youssef Gendia</h1>
+<h3 align="center">Data Scientist | Machine Learning Engineer</h3>
 
-<!--
-**Youssef-Gendia/Youssef-Gendia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&lines=Data+Science;Machine+Learning;AI+Systems;Business+Analytics" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 👨‍💻 About Me
+I am a Computer Science student focused on **Data Science, Machine Learning, and AI systems**.  
+I build practical solutions that turn data into insights and business value.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
+
+### 📊 Data Analysis
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🤖 Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow" />
+</p>
+
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Streamlit-App-red?style=flat&logo=streamlit"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 Lead Scoring System
+- End-to-end ML pipeline  
+- Predicts customer conversion  
+- Built with Streamlit  
+
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- Email: YOUR_EMAIL  
