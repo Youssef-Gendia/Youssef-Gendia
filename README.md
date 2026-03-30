@@ -58,14 +58,7 @@ I build practical solutions that turn data into insights and business value.
 ---
 
 ### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
-<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter"/>
-<img src="https://img.shields.io/badge/Streamlit-App-red?style=flat&logo=streamlit"/>
-<img src="https://img.shields.io/badge/Google%20Colab-ML%20Development-yellow?style=flat&logo=googlecolab"/>
-<img src="https://img.shields.io/badge/Linux-Basic-black?style=flat&logo=linux"/>
-<img src="https://img.shields.io/badge/APIs-Integration-blue?style=flat"/>
-</p>
+<p> <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux" /> <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter"/> <img src="https://img.shields.io/badge/Streamlit-App-red?style=flat&logo=streamlit"/> <img src="https://img.shields.io/badge/Google%20Colab-ML%20Development-yellow?style=flat&logo=googlecolab"/> <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=flat&logo=pytorch"/> <img src="https://img.shields.io/badge/Keras-Neural%20Networks-darkred?style=flat&logo=keras"/> <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=flat&logo=opencv"/> <img src="https://img.shields.io/badge/XGBoost-Boosting%20Models-green?style=flat"/> <img src="https://img.shields.io/badge/LightGBM-Gradient%20Boosting-brightgreen?style=flat"/> <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Library-orange?style=flat"/> <img src="https://img.shields.io/badge/SQL-Data%20Querying-blue?style=flat&logo=mysql"/> <img src="https://img.shields.io/badge/NoSQL-MongoDB-green?style=flat&logo=mongodb"/> <img src="https://img.shields.io/badge/Airflow-Data%20Pipelines-purple?style=flat&logo=apacheairflow"/> <img src="https://img.shields.io/badge/MLflow-Model%20Tracking-black?style=flat"/> <img src="https://img.shields.io/badge/DVC-Version%20Control%20for%20ML-brown?style=flat"/> <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-blue?style=flat"/> <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines-green?style=flat"/> <img src="https://img.shields.io/badge/APIs-FastAPI%20%7C%20Flask-purple?style=flat"/> <img src="https://img.shields.io/badge/Deployment-Render%20%7C%20Heroku-black?style=flat"/> </p>
 
 ---
 
