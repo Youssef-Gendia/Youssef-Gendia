@@ -75,3 +75,4 @@ I build practical solutions that turn data into insights and business value.
 ## 📫 Contact
 - LinkedIn:[ https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/youssef-gendia-562994349)  
 - Email: youssefgendia4@gmail.com
+- Number: +20 1027793976
